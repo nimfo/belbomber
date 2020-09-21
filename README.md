@@ -1,3 +1,3 @@
 # Установка
 
-git clone 
+git clone https://github.com/nimfo/belbomber.git
